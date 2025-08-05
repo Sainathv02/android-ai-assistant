@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern color palette -->
+    <color name="primary">#6366F1</color>
+    <color name="primary_dark">#4F46E5</color>
+    <color name="secondary">#10B981</color>
+    <color name="secondary_dark">#059669</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F9FAFB</color>
+    <color name="on_surface">#1F2937</color>
+    <color name="on_surface_variant">#6B7280</color>
+    <color name="outline">#E5E7EB</color>
+    <color name="error">#EF4444</color>
+    <color name="success">#10B981</color>
+
+    <!-- Gradient colors -->
+    <color name="gradient_start">#6366F1</color>
+    <color name="gradient_center">#8B5CF6</color>
+    <color name="gradient_end">#A855F7</color>
+
+    <!-- Message bubble colors -->
+    <color name="user_message_start">#6366F1</color>
+    <color name="user_message_end">#4F46E5</color>
+    <color name="ai_message_bg">#FFFFFF</color>
+    <color name="ai_message_border">#E5E7EB</color>
+
+    <!-- Background colors -->
+    <color name="background_primary">#F9FAFB</color>
+    <color name="background_secondary">#FFFFFF</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+    <color name="text_white">#FFFFFF</color>
+</resources>

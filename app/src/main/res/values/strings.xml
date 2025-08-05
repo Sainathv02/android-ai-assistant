@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gemma System Assistant</string>
+    <string name="system_assistant_description">AI-powered system-wide intelligent assistant using Google Gemma 3N</string>
+    <string name="overlay_permission_required">Overlay permission required for system-wide AI assistance</string>
+    <string name="ai_thinking">AI is thinking...</string>
+    <string name="ask_anything">Ask me anything...</string>
+    <string name="assistant_ready">System AI Assistant ready!</string>
+    <string name="permission_granted">Permission granted! You can now start the assistant.</string>
+    <string name="permission_denied">Permission denied. The assistant requires overlay permission.</string>
+    <string name="service_started">System AI Assistant activated!</string>
+    <string name="service_stopped">System Assistant stopped</string>
+    <string name="error_ai_init">AI initialization failed. Please restart.</string>
+    <string name="error_response">I encountered an issue. Please try again.</string>
+</resources>
